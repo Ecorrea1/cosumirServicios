@@ -7,7 +7,7 @@
     { " id " : 2 , " title " : " Porque es dificil ocupar Flutter 2", "body":"ES COMPLICADO USAR X2","userId": 2 },
     { " id " : 3 , " title " : " Porque es dificil ocupar Flutter 3", "body":"ES COMPLICADO USAR X3","userId": 1 }
   ],
-  "coments" : [
+  "comments" : [
     { " id " : 1 , " body " : " algún comentario " , " postId " : 1 },
     { " id " : 2 , " body " : " algún comentario " , " postId " : 1 }
   ]
