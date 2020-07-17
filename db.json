@@ -1,14 +1,14 @@
 {
+  "users":[{"id":1, "name" :"Emmanuel Correa", "username":"Ecorrea", "email":"ebcorreac@gmail.com", "image":"https://www.google.cl/search?q=Emmanuel+Correa&sa=G&sxsrf=ALeKk03vOfujsCcoHfr7MlV_yDzI3J3sxw:1594952614767&tbm=isch&source=iu&ictx=1&fir=2Fl5eF-tN6_IIM%252Ci73S4ITr0HgMzM%252C_&vet=1&usg=AI4_-kRGhzXPaIPc2_lAAlKgJX8Y4NAAcA&ved=2ahUKEwjwq6XAndPqAhXOHbkGHdz_BYUQ9QEwB3oECAoQEg#imgrc=2Fl5eF-tN6_IIM"},
+           {"id":2, "name" :"Carlos Correa", "username":"Carlosdf1", "email":"carlos.sdf1@gmail.com", "image":"https://scontent.fscl3-1.fna.fbcdn.net/v/t31.0-8/10842001_10206782865594366_2048210480043401804_o.jpg?_nc_cat=111&_nc_sid=09cbfe&_nc_ohc=cI8QZyKvjL0AX8ATvZY&_nc_ht=scontent.fscl3-1.fna&oh=06ec7704d7af07f8bbed942450961029&oe=5F386176"}
+  ],
   " publicaciones " : [
-    { " id " : 1 , " title " : " Post 1 " },
-    { " id " : 2 , " title " : " Post 2 " },
-    { " id " : 3 , " title " : " Post 3 " }
+    { " id " : 1 , " title " : " Porque es dificil ocupar Flutter ", "body":"ES COMPLICADO USAR POR ALGUNAS RAZONS COMO QEU ES MUY NUEVO","userId": 1 },
+    { " id " : 2 , " title " : " Porque es dificil ocupar Flutter 2", "body":"ES COMPLICADO USAR X2","userId": 2 },
+    { " id " : 3 , " title " : " Porque es dificil ocupar Flutter 3", "body":"ES COMPLICADO USAR X3","userId": 1 }
   ],
   " comentarios " : [
     { " id " : 1 , " body " : " algún comentario " , " postId " : 1 },
     { " id " : 2 , " body " : " algún comentario " , " postId " : 1 }
-  ],
-  " perfil " : {
-    " nombre " : " tipicode "
-  }
+  ]
 }
